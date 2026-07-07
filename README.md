@@ -44,7 +44,7 @@ Pictured above is the Keyboard which I own, it's pretty good, but the main thing
 
 ---
 
-Okay so I may have completely jumped the gun and went directly to Step 2, so I started with an oscillator. Currently my idea is to use a NE555 chip<sub>[Datasheet](https://github.com/VancouverSatelite/SynthDesign/blob/main/Datasheets/ne555.pdf)</sub>, a common timer chip [made by Texas Instruments.](https://www.ti.com/product/NE555), and use this as the oscillator to base everything off of. 
+Okay so I may have completely jumped the gun and went directly to Step 2, so I started with an oscillator. Currently my idea is to use a NE555 chip <sub>[Datasheet](https://www.ti.com/lit/ds/symlink/ne555.pdf?ts=1783341500935&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FNE555%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dti-null-null-xref-cpc-pf-google-ww_en_cons%2526utm_content%253Dxref%2526ds_k%253DNE555%2526dcm%253Dyes%2526gclsrc%253Daw.ds%2526gad_source%253D1%2526gad_campaignid%253D23167718368%2526gbraid%253D0AAAAAC068F1p6e-_8HsMsWvMZ_rWlRLaM%2526gclid%253DCjwKCAjwu53SBhAhEiwAJzSLNrd038ga1U21k-g-4e6bnKQhk41KmV4a3vjl2LVMLKJhO3CMautZLBoC4H0QAvD_BwE)</sub>, a common timer chip [made by Texas Instruments.](https://www.ti.com/product/NE555), and use this as the oscillator to base everything off of. 
 
 
 
