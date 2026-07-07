@@ -9,25 +9,28 @@ When envisioning a Keyboard / Synthesizer, I often imagine it with a form factor
 ---
 ### Example's Given
 ---
-#### Minimoog
+#### Moog Minimoog
 
 ![](https://github.com/VancouverSatelite/SynthDesign/blob/main/Media/MiniMoog.jpg)
-
  [Image source](https://cdm.link/minimoog-missing-link/)
 
+ Text here
+
 ---
-#### Astrolab 
+#### Arturia Astrolab 
 
 ![](https://github.com/VancouverSatelite/SynthDesign/blob/main/Media/Astrolab.jpeg)
-
 [Image source](https://www.avshop.ca/recording-controllers/arturia-astrolab-61-key-stage-keyboard?__cf_chl_f_tk=p7kz2twG5REP5MgtDt6TkLrt6cTU.ZU4teSZfQjUQQs-1783382631-1.0.1.1-H8EI2DeumR4r.gfAgl3fNApPAfk8RLXopluEpLBcxpQ)
 
+Text here
+
 ---
-#### LK-265 
+#### Casio LK-265 
 
 ![](https://github.com/VancouverSatelite/SynthDesign/blob/main/Media/casio.jpg)
-
 [Image source](https://bestpianokeyboards.com/reviews/casio-lk-265-61-key-keyboard-review/)
+
+Text here
 
 ---
 ## Resources used
