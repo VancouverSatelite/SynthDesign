@@ -3,7 +3,13 @@
 
 ## Important Notes about the scope of this project
 
-When envisioning a Keyboard / Synthesizer, I often imagine it with a form factor that of either a Minimoog, an Arturia AstroLab, or a Casio LK-265 (Pictured below). The latter of which I own and got as a christmas gift a few years ago. (I plan on modding it in the near future.)
+When envisioning a Keyboard / Synthesizer, I often imagine it with a form factor that of either a Minimoog, an Arturia AstroLab, or a Casio LK-265 (Pictured below). The latter of which I own and got as a christmas gift a few years ago. (I plan on modding it in the near future.) 
+
+This project will probably end up being around the complexity level of an 80's base level casio or yamaha keyboard, making it a solid keyboard for a beginner keys player (such as myself). I'm expecting this to end up being an Oscillator, an ADSR with some sliders, and some presets that mess with the waveform to create different sounds, presumably done with like capacitors and resistors (this is the part I've not looked into yet).
+
+
+I think this will be a good mid-level project for an engineer such as myself, and as such will be seeing where I go with it.
+
 
 ### Example's Given
 Hey look I put them in price order by accident.
@@ -31,6 +37,45 @@ Pictured above is a personal favorite of mine, The Arturia Astrolab (this one's 
 [Image source](https://bestpianokeyboards.com/reviews/casio-lk-265-61-key-keyboard-review/)
 
 Pictured above is the Keyboard which I own, it's pretty good, but the main thing it's missing is a midi/USB out so I can use it on an audio interface or connected to a DAW. It's great for just plugging my headphones into and playing though if I want some cool presets. it's got like ~400 presets or something crazy, and it's fun to use. The keys aren't weighted, but at this price point you wouldn't expect that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## Resources used
