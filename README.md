@@ -38,15 +38,31 @@ Pictured above is a personal favorite of mine, The Arturia Astrolab (this one's 
 
 Pictured above is the Keyboard which I own, it's pretty good, but the main thing it's missing is a midi/USB out so I can't use it on an audio interface or connected to a DAW. It's great for just plugging my headphones into and playing though if I want some cool presets. it's got like ~400 presets or something crazy, and it's fun to use. The keys aren't weighted, but at this price point you wouldn't expect that.
 
-## Step 1: the planning phase
+## Step 1: The Planning Phase
 
 ## Step 2: The Oscillator
 
----
 
 Okay so I may have completely jumped the gun and went directly to Step 2, so I started with an oscillator. Currently my idea is to use a NE555 chip <sub>[Datasheet](https://www.ti.com/lit/ds/symlink/ne555.pdf?ts=1783341500935&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FNE555%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dti-null-null-xref-cpc-pf-google-ww_en_cons%2526utm_content%253Dxref%2526ds_k%253DNE555%2526dcm%253Dyes%2526gclsrc%253Daw.ds%2526gad_source%253D1%2526gad_campaignid%253D23167718368%2526gbraid%253D0AAAAAC068F1p6e-_8HsMsWvMZ_rWlRLaM%2526gclid%253DCjwKCAjwu53SBhAhEiwAJzSLNrd038ga1U21k-g-4e6bnKQhk41KmV4a3vjl2LVMLKJhO3CMautZLBoC4H0QAvD_BwE)</sub>, a common timer chip [made by Texas Instruments.](https://www.ti.com/product/NE555), and use this as the oscillator to base everything off of. 
 
+---
+## Step 3 (1): Planning, but real
 
+Key components I plan to use for this will be mostly integrated circuit chips, as I feel using an Arduino or a Pi Pico would probably be too easy
+
+### Things to make
+
+#### Oscillator
+
+#### ADSR 
+
+#### Presets
+
+#### Keys
+
+#### Amplifier
+
+#### 
 
 
 
