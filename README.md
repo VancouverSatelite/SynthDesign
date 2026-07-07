@@ -3,17 +3,33 @@
 
 ## Important Notes about the scope of this project
 
-When making a Keyboard / Synthesizer, I often imagine it with a form factor that of either a Minimoog, an Arturia AstroLab, or a Casio LK-265 (Pictured below). The latter of which I own and got as a christmas gift a few years ago. (I plan on modding it in the near future.)
+When envisioning a Keyboard / Synthesizer, I often imagine it with a form factor that of either a Minimoog, an Arturia AstroLab, or a Casio LK-265 (Pictured below). The latter of which I own and got as a christmas gift a few years ago. (I plan on modding it in the near future.)
+
+
 ---
-### 
+### Example's Given
+---
+#### Minimoog
 
-Minimoog [Image source](https://cdm.link/minimoog-missing-link/)
+![](https://github.com/VancouverSatelite/SynthDesign/blob/main/Media/MiniMoog.jpg)
 
-Astrolab [Image source](https://www.avshop.ca/recording-controllers/arturia-astrolab-61-key-stage-keyboard?__cf_chl_f_tk=p7kz2twG5REP5MgtDt6TkLrt6cTU.ZU4teSZfQjUQQs-1783382631-1.0.1.1-H8EI2DeumR4r.gfAgl3fNApPAfk8RLXopluEpLBcxpQ)
+ [Image source](https://cdm.link/minimoog-missing-link/)
 
-LK-265 [Image source](https://bestpianokeyboards.com/reviews/casio-lk-265-61-key-keyboard-review/)
+---
+#### Astrolab 
 
+![](https://github.com/VancouverSatelite/SynthDesign/blob/main/Media/Astrolab.jpeg)
 
+[Image source](https://www.avshop.ca/recording-controllers/arturia-astrolab-61-key-stage-keyboard?__cf_chl_f_tk=p7kz2twG5REP5MgtDt6TkLrt6cTU.ZU4teSZfQjUQQs-1783382631-1.0.1.1-H8EI2DeumR4r.gfAgl3fNApPAfk8RLXopluEpLBcxpQ)
+
+---
+#### LK-265 
+
+![](https://github.com/VancouverSatelite/SynthDesign/blob/main/Media/casio.jpg)
+
+[Image source](https://bestpianokeyboards.com/reviews/casio-lk-265-61-key-keyboard-review/)
+
+---
 ## Resources used
 
 [Circuits DIY](https://www.circuits-diy.com/simple-tone-generator-circuit-using-ne555-timer-ic/)
