@@ -44,7 +44,7 @@ Pictured above is the Keyboard which I own, it's pretty good, but the main thing
 
 ---
 
-Okay so I may have completely jumped the gun and went directly to Step 2, so I started with an oscillator. Currently my idea is to use a [NE555 chip]() <sub>Click for Datasheet</sub>, a common timer chip [made by Texas Instruments.](https://www.ti.com/product/NE555), and use this as the oscillator to base everything off of. 
+Okay so I may have completely jumped the gun and went directly to Step 2, so I started with an oscillator. Currently my idea is to use a NE555 chip<sub>[Datasheet](https://github.com/VancouverSatelite/SynthDesign/blob/main/Datasheets/ne555.pdf)</sub>, a common timer chip [made by Texas Instruments.](https://www.ti.com/product/NE555), and use this as the oscillator to base everything off of. 
 
 
 
