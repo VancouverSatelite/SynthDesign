@@ -36,9 +36,15 @@ Pictured above is a personal favorite of mine, The Arturia Astrolab (this one's 
 ![](https://github.com/VancouverSatelite/SynthDesign/blob/main/Media/casio.jpg)
 [Image source](https://bestpianokeyboards.com/reviews/casio-lk-265-61-key-keyboard-review/)
 
-Pictured above is the Keyboard which I own, it's pretty good, but the main thing it's missing is a midi/USB out so I can use it on an audio interface or connected to a DAW. It's great for just plugging my headphones into and playing though if I want some cool presets. it's got like ~400 presets or something crazy, and it's fun to use. The keys aren't weighted, but at this price point you wouldn't expect that.
+Pictured above is the Keyboard which I own, it's pretty good, but the main thing it's missing is a midi/USB out so I can't use it on an audio interface or connected to a DAW. It's great for just plugging my headphones into and playing though if I want some cool presets. it's got like ~400 presets or something crazy, and it's fun to use. The keys aren't weighted, but at this price point you wouldn't expect that.
 
+## Step 1: the planning phase
 
+## Step 2: The Oscillator
+
+---
+
+Okay so I may have completely jumped the gun and went directly to Step 2, so I started with an oscillator. Currently my idea is to use a [NE555 chip]() <sub>Click for Datasheet</sub>, a common timer chip [made by Texas Instruments.](https://www.ti.com/product/NE555), and use this as the oscillator to base everything off of. 
 
 
 
